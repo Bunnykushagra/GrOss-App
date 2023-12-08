@@ -1,0 +1,19 @@
+#onhoverdld {
+    visibility: hidden;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    text-align: right;
+    position: absolute;
+    right: 60px;
+    margin-top: 5px;
+}
+#downloadicon:hover ~ #onhoverdld{
+    visibility: visible;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    text-align: right;
+}

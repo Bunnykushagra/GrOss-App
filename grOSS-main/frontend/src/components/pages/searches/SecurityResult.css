@@ -1,0 +1,10 @@
+.accordion-button {
+    --bs-accordion-bg: "#30363d";
+    background-color: "#30363d";
+}
+
+.accordion-header button {
+    color: "#86b7fe";
+    --bs-accordion-active-bg: "#e7f1ff";
+    --bs-accordion-bg: "#30363d";
+}
